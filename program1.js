@@ -26,7 +26,7 @@ if(b<c && b<d && b<e && b<f) {
 }else if(d<e && d<f) {
     console.log("Minimum value is : "+d);
 }else if(e<f) {
-    console.log("Minimum value is : "+e);
+    console.log("Maximum value is : "+e);
 }else {
-    console.log("Minimum value is : "+f);
+    console.log("Maximum value is : "+f);
 }
