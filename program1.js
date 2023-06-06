@@ -5,6 +5,7 @@ let c = Math.floor(Math.random()*999);
 let d = Math.floor(Math.random()*999);
 let e = Math.floor(Math.random()*999);
 let f = Math.floor(Math.random()*999);
+
 console.log("You Entered : "+b+" , "+c+" , "+d+" , "+e+" , "+f);
 //Maximum Value
 if(b>c && b>d && b>e && b>f) {
